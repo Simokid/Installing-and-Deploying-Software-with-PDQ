@@ -70,7 +70,6 @@ We can go back to our Windows Server 2022, open File Explorer, and see that the 
    <br />
 </p>
 
-s
 
 8. <p align="center">
    <img src="https://i.imgur.com/XNh64Wu.png" height="80%" width="80%" alt="Disk Sanitization Steps 8"/>
@@ -111,7 +110,7 @@ Our internet should now be active. To verify, we can open Command Prompt and pin
     <br />
 </p>
 
-s
+
 
 13. <p align="center">
     <img src="https://i.imgur.com/eyJQlim.png" height="80%" width="80%" alt="Disk Sanitization Steps 13"/>
