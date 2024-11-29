@@ -196,7 +196,7 @@ Enter the previously configured static IP settings:
 
 Click **OK** to apply the settings.
 
-[Next Lab 11 : PDQ Inventory: Hardware and Software Reporting](https://github.com/Simokid/PDQ-Inventory-Hardware-and-Software-Reporting/tree/main)
+ 👉 [Next Lab 11 : PDQ Inventory: Hardware and Software Reporting](https://github.com/Simokid/PDQ-Inventory-Hardware-and-Software-Reporting/tree/main)
 
 
 
